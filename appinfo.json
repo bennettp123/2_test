@@ -1,0 +1,15 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "3d7e105b-7c04-4d5f-b2b7-d489e74ae5d3",
+    "appKeys": {},
+    "longName": "2_test",
+    "versionCode": 1,
+    "shortName": "2_test",
+    "companyName": "bennettp123",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
